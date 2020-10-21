@@ -20,9 +20,9 @@ Create .env file
 ```sh
 $ touch .env
 ```
-Set API_KEY variable
+Set API_KEY variable in .env
 ```sh
-$ API_KEY=*********************
+API_KEY=xxxxxxxxxxxxxxxxxxxxx
 ```
 
 Install the dependencies
