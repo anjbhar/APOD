@@ -11,7 +11,6 @@ Get free API key: https://api.nasa.gov/
 ### Installation
 
 Install the dependencies
-
 ```sh
 $ npm install
 ```
@@ -24,8 +23,6 @@ Set API_KEY variable in .env
 ```sh
 API_KEY=xxxxxxxxxxxxxxxxxxxxx
 ```
-
-Install the dependencies
 
 ### Serve
 To run electron
