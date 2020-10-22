@@ -13,7 +13,8 @@
   "dependencies": {
     "axios": "^0.20.0",
     "dotenv": "^8.2.0",
-    "electron": "^1.7.6"
+    "electron": "^1.7.6",
+    "requests": "^0.3.0"
   },
   "devDependencies": {
     "electron-packager": "^15.1.0"
